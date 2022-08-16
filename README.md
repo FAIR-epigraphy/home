@@ -1,8 +1,6 @@
+<img align="left" width="100" height="80" src="./docs/FAIRlogo_canva_lighter.png" title="FAIR Epigraphy logo">
+
 # The FAIR Epigraphy Project 
-<p align="right">
-  <img src="./docs/FAIRlogo_canva_lighter.png" width="100" title="FAIR Epigraphy logo"><div style='vertical-align:middle; display:inline;'>
-</div>
-</p>
 
 The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  
 
@@ -13,10 +11,6 @@ The overall desirability for FAIR (Findable, Accessible, Interoperable, Reusable
 The project team, supported and backed by a dedicated community of epigraphers, will provide the advice and training to enable alignment with agreed standards by past, current, and future projects (technical and practical support, development of best-practice networks and training materials). The PIs and the team members will illustrate the cutting-edge research potential of epigraphic linked data and its integration into the wider web of data by publications and research on Greek and Roman history, culture, and economy.
 
 The FAIR Epigraphy project will run for 36 months from 2022-2025, and will be  co-directed by Marietta Horster (Mainz, Germany) and Jonathan Prag (Oxford, UK).
-
-<p align="center">
-  <img src="./docs/FAIRlogo_canva_lighter.png" width="250" title="FAIR Epigraphy logo">
-</p>
 
 ## Funding
 
@@ -32,6 +26,9 @@ FAIR Epigraphy is supported by the Arts and Humanities Research Council (AHRC) [
 
 * Jonathan Prag [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3819-8537), University of Oxford, jonathan.prag@merton.ox.ac.uk
 
+<p align="center">
+  <img src="./docs/FAIRlogo_canva_lighter.png" width="150" title="FAIR Epigraphy logo">
+</p>
 
 ## More resources
 
@@ -58,7 +55,6 @@ _Who are we and what do we want to achieve in a nutshell_
   <img src="https://github.com/FAIR-epigraphy/home/blob/main/docs/CIEGL_poster_FAIR.png" title="FAIR Epigraphy poster at CIEGL 22" align="left">
 </p>
 
-
-
+---
 
 
