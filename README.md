@@ -1,4 +1,8 @@
-# The FAIR Epigraphy Project
+# The FAIR Epigraphy Project 
+<p align="right">
+  <img src="./docs/FAIRlogo_canva_lighter.png" width="100" title="FAIR Epigraphy logo"><div style='vertical-align:middle; display:inline;'>
+</div>
+</p>
 
 The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  
 
