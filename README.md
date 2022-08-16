@@ -1,6 +1,8 @@
 # The FAIR Epigraphy Project
 
-![Logo](../docs/FAIRlogo_canva_lighter.png)
+<p align="center">
+  <img src="./docs/FAIRlogo_canva_lighter.png" width="250" title="FAIR Epigraphy logo">
+</p>
 
 The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  
 
@@ -29,22 +31,28 @@ FAIR Epigraphy is supported by the Arts and Humanities Research Council (AHRC) [
 
 ## More resources
 
-1. Digital Epigraphy in 2022: report [Zenodo](https://zenodo.org/badge/464419328.svg)](https://zenodo.org/badge/latestdoi/464419328), [HTML](https://fair-epigraphy.github.io/scoping_survey_report/scripts/01_FAIR_epi_report.html), [PDF](https://github.com/FAIR-epigraphy/scoping_survey_report/blob/main/scripts/01_FAIR_epi_report.pdf)
-
-[![DOI](https://zenodo.org/badge/464419328.svg)](https://zenodo.org/badge/latestdoi/464419328)
+### 1. Digital Epigraphy in 2022: report
+- published at [![Zenodo](https://zenodo.org/badge/464419328.svg)](https://zenodo.org/badge/latestdoi/464419328), as an interactive [HTML site](https://fair-epigraphy.github.io/scoping_survey_report/scripts/01_FAIR_epi_report.html), or [pritable PDF](https://github.com/FAIR-epigraphy/scoping_survey_report/blob/main/scripts/01_FAIR_epi_report.pdf)
 
 _This document maps the state of digital epigraphy in early 2022, with a focus on Open Science practices and accessibility of resources. The report is based on anonymised responses received during the digital survey circulating between February and April 2022, organised by the FAIR Epigraphy Project. The responses cover a broad spectrum of projects from Europe and the USA, ranging from well-established projects with relatively stable institutional support to short-term projects with a more narrow focus and limited access to IT support and funding. The results of the survey will be used to inform the planning of the FAIR Epigraphy project in the following three years. The report is fully reproducible (written in R programming language) and along with the anonymised data accessible via its own GitHub repository (https://github.com/FAIR-epigraphy/scoping_survey_report), and published through Zenodo._
 
+### 2. Linking epigraphic resources demo (RDF) available at [https://inscriptiones.org/](https://inscriptiones.org/)
 
-1. Linking epigraphic resources demo (RDF) [https://inscriptiones.org/](https://inscriptiones.org/)
+_Demo project linking digital epigraphic resources from partner projects in user friendly intreface. The purpose of this demo is to demonstrate the usefulness of Linked Open Data in epigraphy and relative ease of use, once you have the data in the right format (Typically Epidoc XML). Developed by Imran Asif for presentation at CIEGL 2022._
 
-1. [Provisional project website](https://www.csad.ox.ac.uk/fair-epigraphy)
+### 3. Provisional project website [https://www.csad.ox.ac.uk/fair-epigraphy](https://www.csad.ox.ac.uk/fair-epigraphy)
 
-1. [Project's profile on GitHub](https://github.com/FAIR-epigraphy)
+### 4. [Project's profile on GitHub](https://github.com/FAIR-epigraphy)
 
-1. [Project's presentation at CIEGL 2022](../docs/CIEGL22_poster_FAIR.pdf)
+_Access to all FAIR Epigraphy digital resources in one place._
 
-![Logo](../docs/CIEGL22_poster_FAIR.jpg)
+### 5. [Project's presentation at CIEGL 2022](../docs/CIEGL22_poster_FAIR.pdf)
+
+_Who are we and what do we want in a nutshell_
+
+<p align="center">
+  <img src="./docs/CIEGL22_poster_FAIR.png" width="350" title="FAIR Epigraphy poster at CIEGL 22" align="left">
+</p>
 
 
 
