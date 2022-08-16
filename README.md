@@ -51,7 +51,7 @@ _Access to all FAIR Epigraphy digital resources in one place._
 _Who are we and what do we want to achieve in a nutshell_
 
 <p align="center">
-  <img src="https://github.com/FAIR-epigraphy/home/blob/main/docs/CIEGL_poster_FAIR.png" width="650" title="FAIR Epigraphy poster at CIEGL 22" align="left">
+  <img src="https://github.com/FAIR-epigraphy/home/blob/main/docs/CIEGL_poster_FAIR.png" title="FAIR Epigraphy poster at CIEGL 22" align="left">
 </p>
 
 
