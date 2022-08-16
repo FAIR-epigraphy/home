@@ -1,3 +1,5 @@
+# The FAIR Epigraphy Project
+
 <p align="center">
   <img src="./docs/FAIRlogo_canva_lighter.png" width="250" title="FAIR Epigraphy logo">
 </p>
