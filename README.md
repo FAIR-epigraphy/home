@@ -48,10 +48,10 @@ _Access to all FAIR Epigraphy digital resources in one place._
 
 ### 5. [Project's presentation at CIEGL 2022](../docs/CIEGL22_poster_FAIR.pdf)
 
-_Who are we and what do we want in a nutshell_
+_Who are we and what do we want to achieve in a nutshell_
 
 <p align="center">
-  <img src="../docs/CIEGL22_poster_FAIR.jpg" width="350" title="FAIR Epigraphy poster at CIEGL 22" align="left">
+  <img src="https://github.com/FAIR-epigraphy/home/blob/main/docs/CIEGL_poster_FAIR.png" width="650" title="FAIR Epigraphy poster at CIEGL 22" align="left">
 </p>
 
 
