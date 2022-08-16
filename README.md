@@ -1,9 +1,5 @@
 # The FAIR Epigraphy Project
 
-<p align="center">
-  <img src="./docs/FAIRlogo_canva_lighter.png" width="250" title="FAIR Epigraphy logo">
-</p>
-
 The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  
 
 At the same time, large digital datasets have opened the door to the application of new methods such as Machine Learning. Working with digital methods and making use of digital tools has opened our eyes to new approaches, allowing for innovative, unusual perspectives and interpretations of Greek and Roman history, economy, and culture. There exist several large (100,000+ texts) and many more small-scale epigraphic databases and corpora. The development of the EpiDoc TEI XML standard in the early 2000s has accelerated this work and inspired the first international efforts to network the many, excellent databases and to develop common minimum standards.
@@ -13,6 +9,10 @@ The overall desirability for FAIR (Findable, Accessible, Interoperable, Reusable
 The project team, supported and backed by a dedicated community of epigraphers, will provide the advice and training to enable alignment with agreed standards by past, current, and future projects (technical and practical support, development of best-practice networks and training materials). The PIs and the team members will illustrate the cutting-edge research potential of epigraphic linked data and its integration into the wider web of data by publications and research on Greek and Roman history, culture, and economy.
 
 The FAIR Epigraphy project will run for 36 months from 2022-2025, and will be  co-directed by Marietta Horster (Mainz, Germany) and Jonathan Prag (Oxford, UK).
+
+<p align="center">
+  <img src="./docs/FAIRlogo_canva_lighter.png" width="250" title="FAIR Epigraphy logo">
+</p>
 
 ## Funding
 
