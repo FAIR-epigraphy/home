@@ -2,7 +2,7 @@
 
 <img align="left" width="100" height="80" src="./docs/FAIRlogo_canva_lighter.png" title="FAIR Epigraphy logo">
 
-The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  
+<p> The integration of digital humanities in the field of ancient history has generated major editorial and analytical epigraphic projects based on the diverse uses of writing in everyday life whether featured on amphora stamps for administrative usage and quality control, religiously motivated engravings in sanctuaries, Greco-Roman inscribed epitaphs, or even Pompeiian pornographic graffiti.  </p>
 
 At the same time, large digital datasets have opened the door to the application of new methods such as Machine Learning. Working with digital methods and making use of digital tools has opened our eyes to new approaches, allowing for innovative, unusual perspectives and interpretations of Greek and Roman history, economy, and culture. There exist several large (100,000+ texts) and many more small-scale epigraphic databases and corpora. The development of the EpiDoc TEI XML standard in the early 2000s has accelerated this work and inspired the first international efforts to network the many, excellent databases and to develop common minimum standards.
 
