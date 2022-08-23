@@ -10,7 +10,7 @@ The overall desirability for FAIR (Findable, Accessible, Interoperable, Reusable
 
 The project team, supported and backed by a dedicated community of epigraphers, will provide the advice and training to enable alignment with agreed standards by past, current, and future projects (technical and practical support, development of best-practice networks and training materials). The PIs and the team members will illustrate the cutting-edge research potential of epigraphic linked data and its integration into the wider web of data by publications and research on Greek and Roman history, culture, and economy.
 
-The FAIR Epigraphy project will run for 36 months from 2022-2025, and will be  co-directed by Marietta Horster (Mainz, Germany) and Jonathan Prag (Oxford, UK).
+The FAIR Epigraphy project will run for 36 months from 2022-2025, and is co-directed by Marietta Horster (Mainz, Germany) and Jonathan Prag (Oxford, UK).
 
 ## Funding
 
